@@ -1,0 +1,29 @@
+administrative_geography,areaName,qualification,value
+E12000008,South East,no_qualifications,1162221
+E12000009,South West,no_qualifications,741183
+E12000001,North East,no_qualifications,442379
+E12000002,North West,no_qualifications,1174699
+E12000003,Yorkshire and The Humber,no_qualifications,919640
+E12000006,East,no_qualifications,932209
+E12000007,London,no_qualifications,1151250
+E12000008,South East,level1_qualification,739122
+E12000009,South West,level1_qualification,465970
+E12000001,North East,level1_qualification,208919
+E12000002,North West,level1_qualification,583083
+E12000003,Yorkshire and The Humber,level1_qualification,449065
+E12000006,East,level1_qualification,554976
+E12000007,London,level1_qualification,545269
+E12000008,South East,level2_qualification,1046800
+E12000009,South West,level2_qualification,678280
+E12000001,North East,level2_qualification,301648
+E12000002,North West,level2_qualification,819133
+E12000003,Yorkshire and The Humber,level2_qualification,607396
+E12000006,East,level2_qualification,742611
+E12000007,London,level2_qualification,707518
+E12000008,South East,L14_Value,484481
+E12000009,South West,L14_Value,285136
+E12000001,North East,L14_Value,249876
+E12000002,North West,L14_Value,593651
+E12000003,Yorkshire and The Humber,L14_Value,424076
+E12000006,East,L14_Value,353394
+E12000007,London,L14_Value,731530
