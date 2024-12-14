@@ -20,7 +20,6 @@ E12000002,North West,level2_qualification,819133
 E12000003,Yorkshire and The Humber,level2_qualification,607396
 E12000006,East,level2_qualification,742611
 E12000007,London,level2_qualification,707518
-W92000004,Wales,apprentice,143316
 E12000001,North East,apprentice,144765
 E12000002,North West,apprentice,353909
 E12000003,Yorkshire and The Humber,apprentice,273719
@@ -28,7 +27,6 @@ E12000006,East,apprentice,284157
 E12000007,London,apprentice,227622
 E12000008,South East,apprentice,386759
 E12000009,South West,apprentice,283597
-W92000004,Wales,level3,440652
 E12000001,North East,level3,404417
 E12000002,North West,level3,1061950
 E12000003,Yorkshire and The Humber,level3,777070
@@ -36,7 +34,6 @@ E12000006,East,level3,863162
 E12000007,London,level3,937875
 E12000008,South East,level3,1313552
 E12000009,South West,level3,876607
-W92000004,Wales,level4,806773
 E12000001,North East,level4,622419
 E12000002,North West,level4,1880049
 E12000003,Yorkshire and The Humber,level4,1315456
@@ -44,4 +41,3 @@ E12000006,East,level4,1625376
 E12000007,London,level4,3316829
 E12000008,South East,level4,2702048
 E12000009,South West,level4,1566774
-
